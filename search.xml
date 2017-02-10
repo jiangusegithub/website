@@ -14,30 +14,4 @@
     
   
   
-    
-    <entry>
-      <title><![CDATA[404]]></title>
-      <url>http://blog.telidh.cn/404/index-1.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[404]]></title>
-      <url>http://blog.telidh.cn/404/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[关于]]></title>
-      <url>http://blog.telidh.cn/about/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[标签云]]></title>
-      <url>http://blog.telidh.cn/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-  
 </search>
